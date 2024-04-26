@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 50px auto 50px auto;
+    color: #66bfbf;
+    font-size: 90pt;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    display: block;
+    margin-top: 0;
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+h3 {
+    color: #11999E;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
+p {
+    line-height: 2;
+}
+.skill-row {
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    width: 50%;
+}
+.top-container {
+    background-color:  #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 350px;
+    top: 50px;
+}
+.bottom-cloud {
+    position: absolute;
+}
+
+.mountain {
+}
+
+.Suzanne { width: 200; height: 200;}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.computer {
+    float: left;
+    padding: 0px 30px 0px 0px;
+    width: 25%;
+}
+
+.english {
+    float: right;
+    margin-left: 30px;
+    width: 25%
+}
